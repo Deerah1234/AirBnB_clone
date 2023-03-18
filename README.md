@@ -1,1 +1,1 @@
-# AirBnB_clone Project
+# AirBnB clone - The console & Web static
